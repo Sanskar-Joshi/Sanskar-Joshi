@@ -51,7 +51,7 @@ I am a passionate fresher Web Developer focused on building responsive, user-fri
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/your-profile-handle](www.linkedin.com/in/sanskar-joshi-webdev)
-- **Portfolio:** [sanskar-joshi.github.io/personal-portfolio](https://sanskar-joshi.github.io/personal-portfolio)
+- **LinkedIn:** [Sanskar Joshi](https://www.linkedin.com/in/sanskar-joshi-webdev/)
+- **Portfolio:** [My Personal Portfolio](https://sanskar-joshi.github.io/personal-portfolio/)
 
-*"Code is like humor. When you have to explain it, it’s bad."*
+> *"Code is like humor. When you have to explain it, it’s bad."*
