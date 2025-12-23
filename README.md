@@ -1,34 +1,39 @@
-# Hi, I'm Sanskar Joshi 👋
+# Hi there, I'm Sanskar Joshi! 👋
 
-### 👨‍💻 Aspiring Frontend Developer | BCA Student
-I am a passionate web developer focused on building clean, responsive, and high-performance user interfaces. I specialize in turning complex problems into simple, elegant web solutions.
+### 👨‍💻 Aspiring Web Developer from Ambaji, Gujarat
+I am a passionate fresher Web Developer focused on building responsive, user-friendly websites. I love turning designs into functional code using HTML, CSS, and JavaScript.
 
----
-
-### 🛠 My Technical Toolkit
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Bootstrap |
-| **Database** | SQL |
-| **Workflow** | Git, GitHub, Chrome DevTools |
-| **Environment** | VS Code, Prettier, ESLint, Live Server |
+- 🔭 I’m currently working on: **Professional Portfolio Projects**
+- 🌱 I’m currently learning: **Advanced DOM Manipulation & APIs**
+- 👯 I’m looking to collaborate on: **Frontend Web Projects**
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/sanskar-joshi-webdev/)
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
-#### 🏠 [Real Estate Marketplace](https://github.com/Sanskar-Joshi/real-estate-marketplace)
-A property listing portal featuring dynamic search filters and a fully responsive grid layout. Built to demonstrate advanced DOM manipulation and CSS architecture.
+---
 
-#### 🔐 [User Authentication UI](https://github.com/Sanskar-Joshi/authentication-interface)
-A professional sign-up and login system focused on form validation and user experience (UX) best practices.
+### 📊 My GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sanskar-Joshi&show_icons=true&theme=radical" alt="Sanskar's GitHub stats" />
+</p>
 
-#### 📁 [Personal Portfolio](https://github.com/Sanskar-Joshi/personal-portfolio)
-My digital resume and project showcase, built with mobile-first design principles.
+---
 
-#### 🛒 [E-commerce Fashion UI](https://github.com/Sanskar-Joshi/e-commerce-fashion-ui)
-A modern storefront interface demonstrating grid layouts and interactive product components.
+### 🏆 Top Projects
+| Project | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **🌦️ Weather Dashboard** | HTML, CSS, JS, API | [**Live Demo**](https://sanskar-joshi.github.io/weather-dashboard/) |
+| **🏠 Real Estate Platform** | HTML, CSS (Grid/Flex) | [**Live Demo**](https://sanskar-joshi.github.io/real-estate-landing/) |
+| **🔐 Auth System** | HTML, CSS, JS | [View Code](https://github.com/Sanskar-Joshi) |
 
 ---
 
